@@ -9,7 +9,7 @@
       
       <div class="grid grid-cols-1 md:grid-cols-12 gap-4">
         <div class="col-span-1 md:col-span-3">
-          <h2 class="text-2xl font-semibold mb-4">Summary</h2>
+          <h2 class="text-2xl font-semibold mb-4">Summaryy</h2>
         </div>
 
 
