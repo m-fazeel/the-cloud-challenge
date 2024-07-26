@@ -22,7 +22,7 @@ jobs:
         run: |
           npm install
           npm run build
-        working-directory: ./cloud-website
+        working-directory: cloud-website
 
       - name: S3 Sync
         uses: jakejarvis/s3-sync-action@master
