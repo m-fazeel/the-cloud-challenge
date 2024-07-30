@@ -14,6 +14,7 @@
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore"
   },
   "dependencies": {
+    "@fortawesome/vue-fontawesome": "^3.0.8",
     "vue": "^3.4.29"
   },
   "devDependencies": {
