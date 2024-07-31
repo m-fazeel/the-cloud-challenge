@@ -14,7 +14,34 @@
       <hr class="mb-4 w-full border-gray-400" />
 
       <section class="mb-10 text-justify text-sm">
-        I am a Certified Cloud Practitioner with over 2 years of IT experience and a recognized LinkedIn Top Voice in Web Development. My expertise includes application development and extensive work with cloud platforms like AWS and GCP. Committed to advancing in cloud computing, I continuously explore new technologies to stay ahead in the industry.
+        I am a Certified Cloud Practitioner with over 2 years of IT experience and a recognized LinkedIn Top Voice in Web Development. My expertise includes application development and working with cloud platforms like AWS and GCP. I am dedicated to progressing in cloud computing and constantly explore new technologies. 
+      </section>
+
+            <!-- Education -->
+            <section class="mb-10">
+        <div class="flex items-center space-x-4 md:space-x-6">
+          <div class="flex items-center w-24 md:w-40 h-2 bg-red-800"></div>
+          <p class="text-lg md:text-xl text-red-800">Education</p>
+        </div>
+
+        <div class="mt-4 flex flex-col text-sm">
+          <div class="flex flex-col md:flex-row space-y-2 md:space-y-0 md:space-x-6">
+            <div class="w-full md:w-40 text-right">May 2024</div>
+            <div class="flex flex-col">
+              <h3 class="text-md md:text-lg font-semibold text-gray-800">
+                Bachelor of Science in Computer Science
+              </h3>
+              <p class="text-gray-700">University of Texas at Arlington</p>
+              <p class="text-gray-700">Arlington, TX</p>
+
+              <ul class="mt-4 list-disc list-inside text-gray-700">
+                <li>Summa Cum Laude: Graduated with highest honors</li>
+                <li>Freshman Distinction Award: Awarded for exceptional freshman year performance</li>
+                <li>Dean's List: Consistently achieved Dean's List status every semester</li>
+              </ul>
+            </div>
+          </div>
+        </div>
       </section>
 
       <!-- Experience -->
@@ -194,8 +221,7 @@
                 Resume Project - The Cloud Challenge
               </h3>
               <p class="text-gray-800">
-                AWS S3, Lambda, API Gateway, DynamoDB, Route 53, CloudFront,
-                Certificate Manager, Terraform
+                AWS S3, Lambda, API Gateway, DynamoDB, Route 53, CloudFront, Certificate Manager, Terraform
               </p>
 
               <p class="mt-4 text-justify">
@@ -254,34 +280,72 @@
             </div>
           </div>
         </div>
+
+        <!-- Project 3 -->
+        <div class="mt-4 flex text-sm">
+          <div class="flex flex-col md:flex-row space-y-2 md:space-y-0 md:space-x-6">
+            <div class="w-full md:w-40 text-right">Dec 2023</div>
+            <div class="md:ml-6 flex-1">
+              <h3 class="text-md md:text-lg font-semibold">
+                Java Testing Analysis Dashboard
+              </h3>
+              <p class="text-gray-800">
+                React.js, REST APIs, WebSockets, MongoDB, GitHub Actions
+              </p>
+
+              <p class="mt-4 text-justify">
+                Developed a visualization dashboard for Java testing with React.js, enhancing management and reducing synchronization delays using REST APIs and WebSockets. The dashboard was styled with Tailwind CSS, and GitHub Actions was used for automated deployment.
+              </p>
+
+              <div class="mt-4 flex space-x-4">
+                <a href="https://github.com/m-fazeel/automated_testing_dashboard" class="text-red-800" target="_blank" rel="noopener noreferrer">
+                  Github
+                  <svg xmlns="http://www.w3.org/2000/svg" class="h-3 w-3 inline mb-3" fill="none" viewBox="0 0 24 24"
+                    stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3"
+                      d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+                  </svg>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+
       </section>
 
-      <!-- Education -->
       <section class="mb-10">
         <div class="flex items-center space-x-4 md:space-x-6">
           <div class="flex items-center w-24 md:w-40 h-2 bg-red-800"></div>
-          <p class="text-lg md:text-xl text-red-800">Education</p>
+          <p class="text-lg md:text-xl text-red-800">Leadership</p>
         </div>
 
         <div class="mt-4 flex flex-col text-sm">
           <div class="flex flex-col md:flex-row space-y-2 md:space-y-0 md:space-x-6">
-            <div class="w-full md:w-40 text-right">May 2024</div>
+            <div class="w-full md:w-40 text-right">Aug 2023 - May 2024</div>
             <div class="flex flex-col">
               <h3 class="text-md md:text-lg font-semibold text-gray-800">
-                Bachelor of Science in Computer Science
+                Vice President of Finance
               </h3>
-              <p class="text-gray-700">University of Texas at Arlington</p>
+              <p class="text-gray-700">Engineering Student Council, UTA</p>
               <p class="text-gray-700">Arlington, TX</p>
+            </div>
+          </div>
+        </div>
 
-              <ul class="mt-4 list-disc list-inside text-gray-700">
-                <li>Summa Cum Laude: Graduated with highest honors</li>
-                <li>Freshman Distinction Award: Awarded for exceptional freshman year performance</li>
-                <li>Dean's List: Consistently achieved Dean's List status every semester</li>
-              </ul>
+        <div class="mt-4 flex flex-col text-sm">
+          <div class="flex flex-col md:flex-row space-y-2 md:space-y-0 md:space-x-6">
+            <div class="w-full md:w-40 text-right">Aug 2023 - May 2024</div>
+            <div class="flex flex-col">
+              <h3 class="text-md md:text-lg font-semibold text-gray-800">
+                Vice President
+              </h3>
+              <p class="text-gray-700">ALD Honors Society, UTA</p>
+              <p class="text-gray-700">Arlington, TX</p>
             </div>
           </div>
         </div>
       </section>
+
 
       <!-- Contact -->
       <section class="mb-10">
