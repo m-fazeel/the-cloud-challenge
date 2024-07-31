@@ -26,7 +26,7 @@
 
         <div class="mt-4 flex flex-col text-sm">
           <div class="flex flex-col md:flex-row space-y-2 md:space-y-0 md:space-x-6">
-            <div class="w-full md:w-40 text-right">May 2024</div>
+            <div class="w-full md:w-40 text-right">Aug 2020 - May 2024</div>
             <div class="flex flex-col">
               <h3 class="text-md md:text-lg font-semibold text-gray-800">
                 Bachelor of Science in Computer Science
