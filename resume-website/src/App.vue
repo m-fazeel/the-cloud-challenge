@@ -14,7 +14,7 @@
       <hr class="mb-4 w-full border-gray-400" />
 
       <section class="mb-10 text-justify text-sm">
-        I am a Certified Cloud Practitioner with over 2 years of IT experience and a recognized LinkedIn Top Voice in Web Development. My expertise includes application development and working with cloud platforms like AWS and GCP. I am dedicated to progressing in cloud computing and constantly explore new technologies. 
+        I am a Certified Cloud Practitioner with over 2 years of IT experience and a recognized LinkedIn Top Voice in Web Development. I specialize in full stack development, encompassing both front-end and back-end technologies to build complete, scalable web applications. I am dedicated to progressing in cloud computing and constantly explore new technologies. 
       </section>
 
             <!-- Education -->
