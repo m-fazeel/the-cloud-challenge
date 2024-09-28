@@ -14,7 +14,7 @@
       <hr class="mb-4 w-full border-gray-400" />
 
       <section class="mb-10 text-justify text-sm">
-        I am a Certified Cloud Practitioner with over 2 years of IT experience and a recognized LinkedIn Top Voice in Web Development. I specialize in full stack development, encompassing both front-end and back-end technologies to build complete, scalable web applications. I am dedicated to progressing in cloud computing and constantly explore new technologies. 
+        I am a Certified Cloud Practitioner with over 3 years of software development experience and a recognized LinkedIn Top Voice in Web Development. I specialize in full stack development, encompassing both front-end and back-end technologies to build complete, scalable web applications. I am dedicated to progressing in cloud computing and constantly explore new technologies. 
       </section>
 
             <!-- Education -->
@@ -53,7 +53,7 @@
 
         <div class="mt-6">
           <div class="flex flex-col md:flex-row space-y-2 md:space-y-0 md:space-x-6 text-sm">
-            <div class="w-full md:w-40 text-right">July 2024 - Present</div>
+            <div class="w-full md:w-40 text-right">July 2024 - September 2024</div>
             <div class="flex flex-col">
               <h3 class="text-md md:text-lg font-semibold text-gray-800">
                 Software Engineer Fellow
@@ -77,7 +77,7 @@
           <div class="flex flex-col md:flex-row mt-4 md:mt-6 space-y-2 md:space-y-0 md:space-x-6 text-sm">
             <div class="w-full md:w-40 text-right">Aug 2021 - May 2024</div>
             <div class="flex flex-col">
-              <h3 class="text-md md:text-lg font-semibold">IT Support</h3>
+              <h3 class="text-md md:text-lg font-semibold">Technology Analyst</h3>
               <p class="text-gray-700">University of Texas at Arlington</p>
               <p class="text-gray-700">Arlington, TX</p>
             </div>
@@ -120,7 +120,7 @@
             <ul class="list-inside space-y-1">
               <li>
                 Programming:
-                <span class="font-semibold">Python, Java, JavaScript</span>
+                <span class="font-semibold">Python, Java, C, JavaScript, TypeScript</span>
               </li>
               <li>
                 Cloud Platforms:
@@ -128,7 +128,7 @@
               </li>
               <li>
                 Frameworks:
-                <span class="font-semibold">React, Next.js, Vue</span>
+                <span class="font-semibold">React.js, Next.js, Vue</span>
               </li>
               <li>
                 Databases:
