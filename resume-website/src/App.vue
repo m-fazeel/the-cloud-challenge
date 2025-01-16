@@ -52,8 +52,21 @@
         </div>
 
         <div class="mt-6">
+
           <div class="flex flex-col md:flex-row space-y-2 md:space-y-0 md:space-x-6 text-sm">
-            <div class="w-full md:w-40 text-right">July 2024 - September 2024</div>
+            <div class="w-full md:w-40 text-right">Sep 2024 - Present</div>
+            <div class="flex flex-col">
+              <h3 class="text-md md:text-lg font-semibold text-gray-800">
+                Research Software Engineer
+              </h3>
+              <p class="text-gray-700">University of Texas at Arlington</p>
+              <p class="text-gray-700">Remote</p>
+            </div>
+          </div>
+
+
+          <div class="flex flex-col md:flex-row space-y-2 md:space-y-0 md:space-x-6 text-sm">
+            <div class="w-full md:w-40 text-right">July 2024 - Sep 2024</div>
             <div class="flex flex-col">
               <h3 class="text-md md:text-lg font-semibold text-gray-800">
                 Software Engineer Fellow
